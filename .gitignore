@@ -1,0 +1,5 @@
+bin/
+*.exe
+*.jl
+*.csv
+*.test
